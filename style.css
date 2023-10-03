@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+select,
+input,
+button {
+  margin: 10px 0px;
+  width: 100px;
+}
